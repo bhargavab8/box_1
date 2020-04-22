@@ -42,3 +42,4 @@ this._submit.bind(this));
         }
     }
 customElements.define("com-sample-box-styling", BoxStylingPanel);
+    })();
