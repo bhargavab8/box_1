@@ -11,7 +11,7 @@
     "webcomponents": [
         {
             "kind": "main",
-			 "tag": "com-sample-boxx",
+	    "tag": "com-sample-box",
             "url": "https://github.com/bhargavab8/box_1/blob/master/box.js",
             "integrity": "",
             "ignoreIntegrity": true
