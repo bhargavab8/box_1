@@ -15,7 +15,7 @@ maxlength="40"></td>
             </fieldset>
         </form>
     `;
-    class BoxStylingPanell extends HTMLElement {
+    class BoxStylingPanel extends HTMLElement {
         constructor() {
             super();
             this._shadowRoot = this.attachShadow({mode: "open"});
